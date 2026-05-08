@@ -13,7 +13,7 @@ export function Hero() {
         {/* Profile Picture - Left */}
         <div className="shrink-0">
           <img
-            src="/Image123.jpg"
+            src="WhatsApp_Image_2026-05-07_at_5.59.55_PM(1)(1)"
             alt="Prince Lalbahadur Barnwal"
             className="object-cover object-top"
             style={{
@@ -45,7 +45,7 @@ export function Hero() {
             className="text-lg md:text-xl font-light mb-4"
             style={{ color: '#6b5240' }}
           >
-            Computer Science Graduate &nbsp;&middot;&nbsp; Aspiring Web Developer
+            Computer Science Graduate &nbsp;&middot;&nbsp; Aspiring Full-Stack Developer
           </p>
           <p
             className="text-base md:text-lg mb-10 leading-relaxed"
