@@ -4,7 +4,7 @@ export function Hero() {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col items-center justify-center px-6 relative"
+      className="min-h-screen flex flex-col items-center justify-center px-6 pt-28 pb-10 relative"
       style={{
         background: 'linear-gradient(160deg, #f5ede0 0%, #faf7f2 50%, #efe8dc 100%)',
       }}
@@ -13,7 +13,7 @@ export function Hero() {
         {/* Profile Picture - Left */}
         <div className="shrink-0">
           <img
-            src="WhatsApp_Image_2026-05-07_at_5.59.55_PM(1)(1)"
+            src="/Image123.jpg"
             alt="Prince Lalbahadur Barnwal"
             className="object-cover object-top"
             style={{
@@ -81,7 +81,7 @@ export function Hero() {
 
       <a
         href="#about"
-        className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1 text-xs font-medium opacity-50 hover:opacity-80 transition-opacity"
+        className="hidden md:flex absolute bottom-10 left-1/2 -translate-x-1/2 flex-col items-center gap-1 text-xs font-medium opacity-50 hover:opacity-80 transition-opacity"
         style={{ color: '#8b5e3c' }}
       >
         <span>Scroll</span>
