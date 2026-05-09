@@ -16,7 +16,7 @@ const PROJECTS = [
       'A clean and modern personal portfolio to showcase skills, projects, and professional background. Designed with a minimalist aesthetic and fully responsive layout.',
     tags: ['React', 'Tailwind CSS', 'TypeScript'],
     image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: '#',
+    url: 'https://prince-lalbahadur-barnwal.vercel.app',
   },
 ];
 
