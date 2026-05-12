@@ -16,7 +16,7 @@ export function Contact() {
           I'm open to new opportunities, collaborations, and conversations. Feel free to reach out.
         </p>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-14 items-stretch">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-14">
           <ContactCard
             icon={<Mail size={24} />}
             label="Email"
@@ -30,16 +30,16 @@ export function Contact() {
             href="https://www.linkedin.com/in/prince-barnwal-a8a127296"
           />
           <ContactCard
-            icon={<MapPin size={24} />}
-            label="Location"
-            value="Mumbai, Maharashtra, India"
-            href={undefined}
-          />
-          <ContactCard
-            icon={<Github size={22} />}
+            icon={<Github size={24} />}
             label="GitHub"
             value="princebarnwal"
             href="https://github.com/princebarnwal"
+          />
+          <ContactCard
+            icon={<MapPin size={22} />}
+            label="Location"
+            value="Mumbai, Maharashtra, India"
+            href="https://www.google.com/maps/place/Mumbai,+Maharashtra,+India"
           />
         </div>
 
