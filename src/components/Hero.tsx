@@ -55,7 +55,7 @@ export function Hero() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="/Prince Barnwal CV.pdf"
+              href="/Prince Barnwal CV 22-05-2026.pdf"
               download
               className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full text-sm font-semibold transition-all duration-200 hover:shadow-lg hover:-translate-y-0.5"
               style={{ backgroundColor: '#8b5e3c', color: '#faf7f2' }}
