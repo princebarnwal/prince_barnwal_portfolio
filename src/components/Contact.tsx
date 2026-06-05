@@ -16,7 +16,7 @@ export function Contact() {
           I'm open to new opportunities, collaborations, and conversations. Feel free to reach out.
         </p>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-14">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-14 items-stretch">
           <ContactCard
             icon={<Mail size={24} />}
             label="Email"

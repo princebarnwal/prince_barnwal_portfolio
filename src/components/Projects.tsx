@@ -18,6 +18,13 @@ const PROJECTS = [
     image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
     url: 'https://prince-lalbahadur-barnwal.vercel.app',
   },
+  {
+    title: 'EduNova : A Smart Learning Platform',
+    description: 'A modern online learning platform offering expert-led courses in tech, finance, and career development. Built with a clean, responsive interface to help learners grow and advance their careers.',
+    tags: ['React', 'TypeScript', 'Tailwind CSS', 'Vite', 'Supabase'],
+    image: 'https://images.pexels.com/photos/3184460/pexels-photo-3184460.jpeg?auto=compress&cs=tinysrgb&w=800',
+    url: 'https://edu-nova-smart-learning-platform.vercel.app/',
+  },
 ];
 
 export function Projects() {
