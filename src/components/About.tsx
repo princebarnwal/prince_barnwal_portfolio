@@ -35,7 +35,7 @@ export function About() {
                 { label: 'Degree', value: 'B.Sc. Computer Science' },
                 { label: 'Location', value: 'Mira Road, Mumbai, India' },
                 { label: 'Focus', value: 'Web Development' },
-                { label: 'Status', value: 'Open to Work' },
+                { label: 'Status', value: 'Frontend Developer at Co-Federation of Indian Industry' },
               ].map(({ label, value }) => (
                 <div key={label}>
                   <p className="text-xs font-semibold uppercase tracking-wider mb-1" style={{ color: '#8b5e3c', letterSpacing: '0.12em' }}>
