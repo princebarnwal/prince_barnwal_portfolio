@@ -3,12 +3,27 @@ import { SectionLabel } from './SectionLabel';
 
 const EXPERIENCES = [
   {
-    role: 'AI Web Development Intern',
-    company: 'Inamigos Foundation',
+    role: 'Web Development Intern',
+    company: 'InAmigos Foundation',
     companyUrl: 'https://inamigosfoundation.org.in/',
-    duration: 'May 2026 – Present',
+    duration: 'May 2026 – June 2026',
     description:
-      'Working as an AI Web Development Intern at InAmigos Foundation through Internshala. Responsible for creating AI-based websites using modern website builders and AI tools. Gaining hands-on experience in website design, personal branding, content creation, and digital presentation skills.',
+      'Working as a Web Development Intern at InAmigos Foundation through Internshala. Responsible for creating websites using modern website builders and development tools. Gaining hands-on experience in website design, personal branding, content creation, and digital presentation skills.',
+  },
+  {
+    role: 'Data Analytics Intern',
+    company: 'InAmigos Foundation',
+    companyUrl: 'https://inamigosfoundation.org.in/',
+    duration: 'June 2026 – July 2026',
+    description:
+      'Worked as a Data Analytics Intern at InAmigos Foundation through Internshala, gaining hands-on experience in data analytics, research, digital projects, and modern analytical tools. The internship strengthened my analytical, technical, and problem-solving skills through practical, real-world tasks.',
+  },
+  {
+    role: 'Mathematics & Science Lecturer',
+    company: 'Mind Mentorium Academy',
+    duration: 'Sept 2024 – Present',
+    description:
+      'Planned and delivered interactive science and mathematics lessons to Secondary & Highger Secondary grade students, improving student performance through personalized teaching and effective exam preparation strategies.',
   },
   {
     role: 'Mathematics & Science Lecturer',
