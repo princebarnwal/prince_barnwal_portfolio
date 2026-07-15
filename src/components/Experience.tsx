@@ -20,17 +20,18 @@ const EXPERIENCES = [
   },
   {
     role: 'Mathematics & Science Lecturer',
-    company: 'Mind Mentorium Academy',
+    company: 'Mind Mentorium Academy'
     duration: 'Sept 2024 – Present',
     description:
       'Planned and delivered interactive science and mathematics lessons to Secondary & Highger Secondary grade students, improving student performance through personalized teaching and effective exam preparation strategies.',
   },
   {
-    role: 'Mathematics & Science Lecturer',
-    company: 'Mind Mentorium Academy',
-    duration: 'Sept 2024 – Present',
+    role: 'FrontEnd Developer',
+    company: 'Confederation of Indian Industry (CII)',
+    companyUrl: 'https://www.cii.in/',
+    duration: 'June 2026 – Present',
     description:
-      'Planned and delivered interactive science and mathematics lessons to Secondary & Highger Secondary grade students, improving student performance through personalized teaching and effective exam preparation strategies.',
+      'Working as a Frontend Developer Intern at the Confederation of Indian Industry (CII), where I gained hands-on experience in building responsive web applications, developing reusable UI components, and collaborating on real-world frontend projects using modern web technologies.',
   },
 ];
 
