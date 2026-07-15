@@ -26,7 +26,7 @@ const EXPERIENCES = [
       'Planned and delivered interactive science and mathematics lessons to Secondary & Highger Secondary grade students, improving student performance through personalized teaching and effective exam preparation strategies.',
   },
   {
-    role: 'FrontEnd Developer',
+    role: 'FrontEnd Developer Intern',
     company: 'Confederation of Indian Industry (CII)',
     companyUrl: 'https://www.cii.in/',
     duration: 'June 2026 – Present',
