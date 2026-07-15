@@ -20,7 +20,7 @@ const EXPERIENCES = [
   },
   {
     role: 'Mathematics & Science Lecturer',
-    company: 'Mind Mentorium Academy'
+    company: 'Mind Mentorium Academy',
     duration: 'Sept 2024 – Present',
     description:
       'Planned and delivered interactive science and mathematics lessons to Secondary & Highger Secondary grade students, improving student performance through personalized teaching and effective exam preparation strategies.',
