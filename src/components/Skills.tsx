@@ -37,13 +37,15 @@ export function Skills() {
                 boxShadow: '0 2px 16px rgba(44,31,14,0.07)',
               }}
             >
-              <div
-                className="w-10 h-10 rounded-xl flex items-center justify-center mb-4"
-                style={{ backgroundColor: '#f0e8dc' }}
-              >
-                <Icon size={20} style={{ color: '#8b5e3c' }} />
+              <div className="flex items-center gap-3">
+                <div
+                  className="w-10 h-10 rounded-xl flex items-center justify-center"
+                  style={{ backgroundColor: '#f0e8dc' }}
+                >
+                  <Icon size={20} style={{ color: '#8b5e3c' }} />
+                </div>
+                <p className="text-sm font-semibold" style={{ color: '#1a110a' }}>{name}</p>
               </div>
-              <p className="text-sm font-semibold mb-3" style={{ color: '#1a110a' }}>{name}</p>
             </div>
           ))}
         </div>
