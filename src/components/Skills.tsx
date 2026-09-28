@@ -1,4 +1,6 @@
 import {
+  GitBranch,
+  Github,
   Leaf,
   Code2,
   Layers,
@@ -16,6 +18,8 @@ const SKILLS = [
   { name: 'Python',               icon: Brain         },
   { name: 'Mongo DB',             icon: Leaf          },
   { name: 'Supabase',             icon: Database      },
+  { name: 'GitHub',             icon: Github      },
+  { name: 'Git',             icon: GitBranch      },
   { name: 'MS Office',            icon: FileText      },
   { name: 'Communication Skills', icon: MessageSquare },
 ];
