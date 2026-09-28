@@ -1,4 +1,5 @@
 import {
+  Atom,
   Cloud,
   GitBranch,
   Github,
@@ -15,7 +16,7 @@ import { SectionLabel } from './SectionLabel';
 const SKILLS = [
   { name: 'HTML & CSS',           icon: Code2         },
   { name: 'JavaScript',           icon: Layers        },
-  { name: 'React.js',             icon: Layers        },
+  { name: 'React.js',             icon: Atom          },
   { name: 'Python',               icon: Brain         },
   { name: 'Mongo DB',             icon: Leaf          },
   { name: 'MySQL',                icon: Database      },
