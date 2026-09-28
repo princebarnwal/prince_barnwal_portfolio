@@ -1,9 +1,11 @@
 import {
+  Leaf,
   Code2,
   Layers,
   Brain,
   FileText,
   MessageSquare,
+  Database,
 } from 'lucide-react';
 import { SectionLabel } from './SectionLabel';
 
@@ -12,6 +14,8 @@ const SKILLS = [
   { name: 'JavaScript',           icon: Layers        },
   { name: 'React.js',             icon: Layers        },
   { name: 'Python',               icon: Brain         },
+  { name: 'Mongo DB',             icon: Leaf          },
+  { name: 'Supabase',             icon: Database      },
   { name: 'MS Office',            icon: FileText      },
   { name: 'Communication Skills', icon: MessageSquare },
 ];
