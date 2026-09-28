@@ -1,4 +1,5 @@
 import {
+  Cloud,
   GitBranch,
   Github,
   Leaf,
@@ -17,9 +18,10 @@ const SKILLS = [
   { name: 'React.js',             icon: Layers        },
   { name: 'Python',               icon: Brain         },
   { name: 'Mongo DB',             icon: Leaf          },
-  { name: 'Supabase',             icon: Database      },
-  { name: 'GitHub',             icon: Github      },
-  { name: 'Git',             icon: GitBranch      },
+  { name: 'MySQL',                icon: Database      },
+  { name: 'Supabase',             icon: Cloud         },
+  { name: 'GitHub',               icon: Github        },
+  { name: 'Git',                  icon: GitBranch     },
   { name: 'MS Office',            icon: FileText      },
   { name: 'Communication Skills', icon: MessageSquare },
 ];
