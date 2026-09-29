@@ -14,17 +14,17 @@ import {
 import { SectionLabel } from './SectionLabel';
 
 const SKILLS = [
-  { name: 'HTML & CSS',           icon: Code2         },
-  { name: 'JavaScript',           icon: Layers        },
-  { name: 'React.js',             icon: Atom          },
-  { name: 'Python',               icon: Brain         },
-  { name: 'Mongo DB',             icon: Leaf          },
-  { name: 'MySQL',                icon: Database      },
-  { name: 'Supabase',             icon: Cloud         },
-  { name: 'GitHub',               icon: Github        },
-  { name: 'Git',                  icon: GitBranch     },
-  { name: 'MS Office',            icon: FileText      },
-  { name: 'Communication Skills', icon: MessageSquare },
+  { name: 'HTML & CSS',           icon: Code2          },
+  { name: 'JavaScript',           icon: Layers         },
+  { name: 'React.js',             icon: Atom           },
+  { name: 'Python',               icon: Brain          },
+  { name: 'Mongo DB',             icon: Leaf           },
+  { name: 'MySQL',                icon: Database       },
+  { name: 'Supabase',             icon: Cloud          },
+  { name: 'GitHub',               icon: Github         },
+  { name: 'Git',                  icon: GitBranch      },
+  { name: 'MS Office',            icon: FileText       },
+  { name: 'Communication Skills', icon: MessageSquare  },
 ];
 
 export function Skills() {
